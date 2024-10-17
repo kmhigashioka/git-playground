@@ -4,3 +4,5 @@ print('Hello, world!')
 
 # This program prints Have a great day!
 print('Have a great day!')
+
+# Snapshot 1
