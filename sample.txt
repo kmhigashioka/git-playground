@@ -1,1 +1,0 @@
-This sample.txt was added from feature-a branch.
